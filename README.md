@@ -2,6 +2,7 @@
 
 A personal repository for collecting reusable AI/coding-agent assets:
 
+- `AGENTS.md`: default operating instructions for coding agents in this repo
 - `skills/`: general skills, workflows, and agent capabilities
 - `prompts/`: reusable prompts and prompt patterns
 - `materials/`: notes, references, snippets, and supporting docs
@@ -13,6 +14,7 @@ A personal repository for collecting reusable AI/coding-agent assets:
 - Keep files in Markdown unless another format is necessary.
 - Use descriptive names with kebab-case.
 - Add frontmatter or a short metadata header where useful (owner, status, tags).
+- Follow the default agent workflow and guardrails in `AGENTS.md`.
 - Apply baseline coding frameworks when writing code:
   - Rob Pike's 5 Rules of Programming (`materials/frameworks/rob-pike-5-rules.md`)
 
